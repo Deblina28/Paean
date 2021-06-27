@@ -17,7 +17,7 @@ Coming to the software part, we built a simple GUI software in JAVA using the SW
 The biggest challenge was being able to calculate the SPO2 level. Other than that, some more challenges that we faced were making the IR sensor, for it was a bit troublesome. At first, it was not providing as smooth readings as we desired to achieve, and instead, the sensor was causing some random noises that affected the readings. Finding the filter coefficients for accurate readings took a lot of trial and error. The algorithm for auto-calibration was a tough one.
 
 ## Accomplishments that we're proud of
-We are very proud to have completed our project, and our biggest achievement was getting accurate data from the temperature sensor and achieving the correct SPO2 level and the accurate BPM. And lastly, transmitting the data to our computer and plotting it on the Java run software.
+We are very proud to have completed our project, and our biggest achievement was getting accurate data from the temperature sensor and achieving the correct SPO2 level and the accurate BPM. And lastly, transmitting the data to the computer and plotting it with the Java GUI was the greatest achievement of the project.
 
 ## What we learned
 We learned about the SPO2 level and how we can achieve that using the red light, in addition to achieving the photoplethysmogram with optical sensors like photodiodes and IR LEDs. We also learned about the digital filters, which we can implement into our future projects, and being the most helpful. We were pretty amazed by knowing that we are surrounded by so many signals, and it contains data. Even when we saw the signal from the sensor read by the ADC, it was such a mess and very noisy reading. After filtering, we were able to get the desired reading.
